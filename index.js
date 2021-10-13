@@ -3,12 +3,6 @@ function selectRandomWord(list){
     return randomNumber
 }
 
-
-
-
-
-
-
 function selectRandomMessage(){
     let firstWord = ["A", "The", "One", "Two", "Many"]
     let secondWord = ["a320", "b747", "Dash 8", "Piper Archer", "Antonov 225", "Cessna 172", "Diamond DA42"]
