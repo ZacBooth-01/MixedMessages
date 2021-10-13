@@ -8,3 +8,16 @@
 2. Git
 3. GitHub
 4. Bash Terminal
+
+## Features:
+### Ready Features
++ Random sentence generated from 5 different options.
+
+## Setup:
+Download index.js and run it through bash or terminal using node.js which can be downloaded [here](https://nodejs.org/en/).
+
+## Project Status
+Complete
+
+## Author
+Created by [@ZacBooth-01](https://github.com/ZacBooth-01).
